@@ -5,7 +5,7 @@
 
 [Homework 2](https://github.com/Michael-1337/PDA_SOL/blob/main/hw_2_numpy.ipynb)
 
-[Homework_3](https://github.com/Michael-1337/PDA_SOL/blob/main/hw_3_pandas.ipynb)
+[Homework 3](https://github.com/Michael-1337/PDA_SOL/blob/main/hw_3_pandas.ipynb)
 
 [Practice 1](https://github.com/Michael-1337/PDA_SOL/blob/main/Exercise1.ipynb)
 
